@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate full stack developer || Neextjs || **
+# 💫 Hi 👋, I'm Sujan TImalsina
+**A passionate Full stack developer || Nectjs|| Node.js **
 
 Email Me 👉 ✉️ **iamsjn44@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
