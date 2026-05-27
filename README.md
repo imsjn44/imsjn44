@@ -29,9 +29,6 @@ Email Me 👉 ✉️ **iamsjn44@gmail.com** For Collaboration/Project or Anythin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" width=32/>
-</p>
 ---
 [![](https://komarev.com/ghpvc/?username=imsjn44&icon=7&color=8)](https://visitcount.itsvg.in)
 
