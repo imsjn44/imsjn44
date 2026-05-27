@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Sujan TImalsina
-**A passionate Full stack developer || Nextjs|| Node.js **
+# 💫 Hi 👋, I'm Sujan Timalsina
+**A passionate Full stack developer || Nextjs || Node.js **
 
 Email Me 👉 ✉️ **iamsjn44@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
