@@ -1,0 +1,36 @@
+name: GitHub Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:      # manual run button
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # ⭐ REQUIRED to fix 403 error
+
+    steps:
+      # Checkout repo
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Generate snake animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Deploy to output branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
