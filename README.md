@@ -25,9 +25,8 @@ Email Me 👉 ✉️ **iamsjn44@gmail.com** For Collaboration/Project or Anythin
 
 ![snake gif](https://github.com/imsjn44/imsjn44/blob/output/github-snake-dark.svg)
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imsjn44&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=imsjn44&theme=radical&margin-w=5&no-frame=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
