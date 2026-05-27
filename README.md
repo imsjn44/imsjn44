@@ -22,9 +22,9 @@ Email Me 👉 ✉️ **iamsjn44@gmail.com** For Collaboration/Project or Anythin
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
+![snake gif](https://github.com/imsjn44/imsjn44/blob/output/github-snake-dark.svg)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imsjn44&theme=radical&no-frame=false&no-bg=false&margin-w=4)
