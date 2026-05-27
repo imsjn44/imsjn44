@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sujan TImalsina
-**A passionate Full stack developer || Nectjs|| Node.js **
+**A passionate Full stack developer || Nextjs|| Node.js **
 
 Email Me 👉 ✉️ **iamsjn44@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -30,9 +30,6 @@ Email Me 👉 ✉️ **iamsjn44@gmail.com** For Collaboration/Project or Anythin
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imsjn44&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=imsjn44&icon=7&color=8)](https://visitcount.itsvg.in)
