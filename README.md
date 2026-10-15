@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **iamsjn44@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Astronova Foundation Nepal
-- 🌱 **I’m currently learning:** CI/CD & System Design
+- 🔭 **I’m currently working on:** 
+- 🌱 **I’m currently learning:** AWS & Docker
 - 👯 **I’m looking to collaborate on:** Backend projects
 - 💬 **Ask me about:** Collaboration, Tech support 
 - 📫 **How to reach me:** iamsjn44@gmail.com
